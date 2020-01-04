@@ -78,3 +78,4 @@ GTAGS
 *.orig
 *~
 *.si4project/*
+Module.symvers
